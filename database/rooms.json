@@ -1,0 +1,25 @@
+{
+	"rooms": [
+		{
+			"room_type": "Basic",
+			"room_size": "15",
+			"capacity": "4",
+			"number_of_beds": "2",
+			"price": "1000"
+		},
+		{
+			"room_type": "Deluxe",
+			"size": "30",
+			"capacity": "8",
+			"number_of_beds": "4",
+			"price": "2500"
+		},
+		{
+			"room_type": "Suite",
+			"size": "60",
+			"capacity": "12",
+			"number_of_beds": "6",
+			"price": "5000"
+		}
+	]
+}
